@@ -10,6 +10,8 @@ The project transforms raw Uber ride data into meaningful business insights thro
 
 ---
 
+> **Note:** This is an ongoing project. Additional analysis, dashboard pages, visualizations, and business insights will be added as the project evolves.
+
 ## 🎯 Project Objectives
 
 The main objectives of this project are to:
